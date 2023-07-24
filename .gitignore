@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /Overtime Logger.pyproj
 /Overtime Logger.sln
+/samplecsv.csv
+/orig.py
